@@ -25,3 +25,7 @@ p{
 	font-size:2rem;
 	text-shadow: 3px 3px 3px #0A2B41;
 }
+
+button {
+	width:500px;
+}
